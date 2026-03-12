@@ -10,10 +10,10 @@ class Car:
         print(f"You drive the {self.color} {self.model} which was manufactured in {self.year}")
 
     def stop(self):
-        print(f"You stop the {self.color} {self.model}")
+        print(f"You stop the {self.color} {self.model} which is {self.for_sale}")
 
     def describe(self):
-        print(f"{self.year} {self.color} {self.model}")
+        print(f"{self.year} {self.color} {self.model} which is {self.for_sale}")
 
 
 
