@@ -5,5 +5,6 @@ car2 = Car("Land rover", 2026, "black", True)
 car3 = Car("NOAH", 2026, "white", False)
 
 car3.describe()
-
+car1.describe()
+car2.describe()
 #METHODS = Are actions that our objects can perform.
