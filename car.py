@@ -5,6 +5,7 @@ class Car:
         self.color = color
         self.for_sale = for_sale
 
+
     #METHODS = Are actions that our objects can perform.
     def drive(self):
         print(f"You drive the {self.color} {self.model} which was manufactured in {self.year}")

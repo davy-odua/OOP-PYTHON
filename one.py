@@ -49,7 +49,3 @@ print(car3)
 
 
 #METHODS = Are actions that our objects can perform.
-
-
-
-
