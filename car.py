@@ -7,7 +7,7 @@ class Car:
 
     #METHODS = Are actions that our objects can perform.
     def drive(self):
-        print(f"You drive the {self.color} {self.model}")
+        print(f"You drive the {self.color} {self.model} which was manufactured in {self.year}")
 
     def stop(self):
         print(f"You stop the {self.color} {self.model}")
