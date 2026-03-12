@@ -17,8 +17,4 @@ class Car:
         print(f"{self.year} {self.color} {self.model} which is {self.for_sale}")
 
 
-
-
-
-
     #METHODS = Are actions that our objects can perform.

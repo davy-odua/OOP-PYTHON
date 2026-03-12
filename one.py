@@ -47,5 +47,4 @@ print(car3)
 # which works similarly to a function
 #
 
-
 #METHODS = Are actions that our objects can perform.
