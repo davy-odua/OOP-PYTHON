@@ -42,7 +42,6 @@ print(car1)
 print(car2)
 print(car3)
 
-
 #
 # To construct a car object we need a special type of method called a constructor
 # which works similarly to a function
